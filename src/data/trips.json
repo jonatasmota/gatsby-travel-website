@@ -1,0 +1,26 @@
+[
+    {
+        "img": "../assets/images/trip-01.jpg",
+        "alt": "Venezia - Italy",
+        "name": "Venezia - Italy",
+        "button": "View Destination"
+    },
+    {
+        "img": "../assets/images/trip-02.jpg",
+        "alt": "Istambul - Turkey",
+        "name": "Istambul - Turkey",
+        "button": "View Destination"
+    },
+    {
+        "img": "../assets/images/trip-03.jpg",
+        "alt": "Marina - Malta",
+        "name": "Marina - Malta",
+        "button": "View Destination"
+    },
+    {
+        "img": "../assets/images/trip-04.jpg",
+        "alt": "Zakynthos - Greece",
+        "name": "Zakynthos - Greece",
+        "button": "View Destination"
+    }
+]
